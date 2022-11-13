@@ -7,8 +7,9 @@ body {
   position: relative;
   height: 100%;
   margin: 0 auto;
-  color: #21243d;
+  color: #ffffff;
   font-family: 'Roboto Mono', monospace;
+  background-color: #151618;
 }
 a {
   text-decoration: none;
