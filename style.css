@@ -7,9 +7,10 @@ body {
   position: relative;
   height: 100%;
   margin: 0 auto;
-  color: #ffffff;
+  color: #d7d7d7;
   font-family: 'Roboto Mono', monospace;
   background-color: #151618;
+  font-size: 38px;
 }
 a {
   text-decoration: none;
